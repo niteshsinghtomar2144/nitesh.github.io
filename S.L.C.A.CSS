@@ -1,0 +1,225 @@
+
+   .nav.m{
+         position: fixed;
+        top: 0%;
+         
+      }
+      .nav-item a{
+          color: black;
+      }
+      .nav-item a:hover{
+          color: coral;
+      }
+     .img{
+         height: 320px;
+    
+      }
+      .mh{
+    background-color: gray;
+    
+      }
+      .giu{
+          padding-bottom: 150px;
+      }
+      .hii{
+        
+          font-size: 20px;
+          
+      }
+      .hlo2{
+      
+        font-size: 25px;
+        color:coral;
+    }
+    .hlo3{
+        padding-bottom: 100px;
+        font-size: 15px;
+    }
+.nav-item a{
+    color: black;
+    padding: 5px;
+}
+.jiimg{
+    margin-left: -50px;
+}
+.jiimg img{
+   border-radius: 50%;
+    width:50px;
+    height:50px;
+}
+.jiimg h1{
+  cursor:pointer;
+padding-top: 15px;
+      padding-left: 15px;
+}
+#cubtn{
+    border:1px solid ;
+    height: 40px;
+    padding: -20px;
+}
+
+    .about-image{
+        height: 300px;
+        width: 300px;
+        margin-left: 50px;
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+    .kuo{
+        color: black;
+        text-align: center;
+padding-top: 20px;
+color: white;
+    }
+    
+    .about1{
+        padding-left: 120px;
+        font-size: 25px;
+        color: white;
+    }
+    .my-4{
+        color: white;
+font-size: 16px;
+padding: 20px;
+text-transform: capitalize;
+    }
+    .about2{
+        color: coral;
+        
+    }
+    #go{
+        background-color: black;
+    }
+    
+   /* SKILLS PAGE */
+
+   *{
+       margin: 0%;
+       padding: 0%;
+       box-sizing: border-box;
+      
+   }
+   body{
+      
+       margin: 0%;
+       padding: 0%;
+       display: grid;
+       width: 100%;
+       height: 100vh;
+
+   }
+      .progress-tittle{
+       width: 100%;
+       height: auto;
+
+   }
+   .progress-tittle h3{
+       font-size: 18px;
+       font-weight: 700;
+       padding-left: 100px;
+       color: rgb(16,15,15);
+       margin: 20px 0px 20px;
+   }
+   
+   .progress{
+       width: 70%;
+       height: 50px;
+       background: #171b3c;
+       border: 1px solid;
+       border-radius: 20px;
+       margin-left: 50px;
+   box-shadow: 0px 2px 2px #4f4c4c;
+   margin-bottom: 40px;
+   overflow: visible;
+    }
+    .progress .progress-bar{
+    
+        border-radius: 20px;
+        border: 1px solid #000;
+        animation: animate-positive 2s;
+    }
+    
+    .progress .progress-value{
+        width: 65px;
+        height: 25px;
+        line-height: 25px;
+    margin-left: -90px;    
+        font-size: 15px;
+        
+        border-radius: 0 0 15px 15px;
+        border: 1px solid #000;
+        border-top:none ;
+        box-shadow: 0 2px 2px #4f4c4c;
+        
+        bottom: -25px;
+        right: 60px;
+    }
+    @-webkit-keyframes animate-position{
+        0%{
+            width: 0;
+        }
+    }
+    @keyframes animate-position{
+        0%{
+            width: 0;
+        }
+    }
+    .html{
+        padding-left: 150px;
+        width: 80%;
+        background: rgb(255,0,242);
+    }
+    .css{
+        padding-left: 150px;
+        width:70%;
+        background: yellow;
+    }
+    .bootstrap{
+        padding-left: 150px;
+        width: 50%;
+        background: rgb(34,255,0);
+    }
+    #jii{
+       
+            border: 2px solid ;
+    
+        padding: 20px;
+    }
+    .skillh1{
+        color: black;
+    }
+    /* SKILLS END */
+    /* CONTACT START */
+    .kui{
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+    }
+    #contact{
+       background-color: rgba(1, 1, 1, 0.869);
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 30px;
+
+    }
+    .imageo{
+        margin-top: 20px;
+       
+    }
+ .con_h2{
+     color: white;
+     font-size: 20px;
+ }
+ .con_p{
+    color: white;
+    font-size: 15px;
+}
+.con_po{
+    color: white;
+    font-size: 105x;
+}
+ .contactu{
+     text-decoration: none;
+     color: white;
+ }
+    /* CONTACT END */
